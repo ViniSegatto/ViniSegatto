@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Data Science, Deep Learning**
 - 🔭 I’m currently trying to find a job
 - 📫 How to reach me **viniciussegatto11@gmail.com**
+- ⚡ I'm studying at **Mackenzie**, the only student to make part of the **SOFTWARE RESIDENCY** and **ARTIFICIAL INTELLIGENCE AND DATA SCIENCE LEAGUE** at the same time, trying to become a better Dev everyday
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
