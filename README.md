@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Vinicius Caumo Segatto</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h1 align="center">Hi 👋, I'm Vinicius Segatto</h1>
+<h3 align="center">A passionate A.I. developer from Brasil</h3>
 
 - 🌱 I’m currently learning **Data Science, Deep Learning**
 
