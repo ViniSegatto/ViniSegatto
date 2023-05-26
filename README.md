@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> I'm Vinicius Segatto</h1>
-<h3 align="center">A passionate A.I. developer from Brasil</h3>
+<h3 align="center">A passionate Data Scientist and A.I. developer from Brasil</h3>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning**
 - 🔭 I’m currently trying to find a job
