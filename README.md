@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center"> I'm Vinicius Segatto</h1>
 <h3 align="center">A passionate Data Scientist and A.I. developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning**
-- 🔭 I’m currently trying to find a job
+- 🌱 I’m always learning more and more about **Data Science, Machine Learning, Deep Learning**
 - 📫 How to reach me **viniciussegatto11@gmail.com**
-- ⚡ I'm currently studying at **Mackenzie**, being the only student who is part of both the **SOFTWARE RESIDENCY** and the **ARTIFICIAL INTELLIGENCE AND DATA SCIENCE LEAGUE** at the same time, striving to become a better AI developer every day.
+- ⚡ I'm graduate at **Mackenzie bachelor’s degree in data science**, being the only student who is part of both the **SOFTWARE RESIDENCY** and the **ARTIFICIAL INTELLIGENCE AND DATA SCIENCE LEAGUE** at the same time, striving to become a better AI developer every day.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
